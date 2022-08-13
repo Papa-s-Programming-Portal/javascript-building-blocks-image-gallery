@@ -20,7 +20,13 @@ Your JavaScript needs to:
 
 are an outline of what you will need to do. More details are provided later on the page.
 
-3. There is a sentence
+3. The first of the "needs to" bullets says
+
+Declare a const array listing the filenames of each image, such as 'pic1.jpg'.
+
+Actually, you want more than merely a filename like the one shown here. See the index.html file for an example of how the complete filename should look.
+
+4. There is a sentence
 
 Set the src attribute value of the displayed-img `<img>` to the src value passed in as a parameter.
 
